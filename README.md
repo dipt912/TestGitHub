@@ -1,2 +1,4 @@
 # TestGitHub
-Git Hub Tutorial
+TestGitHub it is a repo for showing 
+how to manuwver function 
+
